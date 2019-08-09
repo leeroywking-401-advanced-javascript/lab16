@@ -5,7 +5,7 @@
 ### Author: Lee-Roy King
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab16/pull/1)
 <!-- * [travis](http://xyz.com) <-- told to wait on tests per ryan> -->
 <!-- * [back-end](http://xyz.com) <-- don't believe this deploys> -->
 <!-- * [front-end](http://xyz.com) (when applicable)  -->
