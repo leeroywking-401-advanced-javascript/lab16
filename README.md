@@ -5,42 +5,28 @@
 ### Author: Lee-Roy King
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab16/pull/1)
+<!-- * [travis](http://xyz.com) <-- told to wait on tests per ryan> -->
+<!-- * [back-end](http://xyz.com) <-- don't believe this deploys> -->
+<!-- * [front-end](http://xyz.com) (when applicable)  -->
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+<!-- * [api docs](http://xyz.com) (API servers) -->
+* [jsdoc](./docs/index.html) (Server assignments)
+<!-- * [styleguide](http://xyz.com) (React assignments) -->
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+<!-- ### Modules -->
+<!-- #### `modulename.js` -->
+<!-- ##### Exported Values and Methods -->
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* node app.js ${filename}
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* I have no idea
+<!-- * What assertions were made? -->
+<!-- * What assertions need to be / should be made? -->
 
 #### UML
-Link to an image of the UML for your application and response to events
+NA
